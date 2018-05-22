@@ -1,0 +1,6 @@
+Melody Lee, "", Student at RMIT, F, 24, VIC
+Bond Chi, "", Manager at IT company, M, 28, VIC
+Constance Chi,"","", F,2,VIC
+Rachel Ruan, "", Store manager at furniture store,F,27,VIC
+Eric Duan,"", local tour guide,M,25, NSW
+Hunk Gu,"",supermarket manager, M, 28, VIC

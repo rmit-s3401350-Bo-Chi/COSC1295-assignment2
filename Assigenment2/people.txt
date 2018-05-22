@@ -1,0 +1,6 @@
+Bond Chi,Melody Lee, couple
+Constance Chi,Melody Lee, parent
+Bond Chi, Constance Chi, parent
+Melody Lee, Rachel Ruan, friends
+Bond Chi, Hunk Gu, friends
+
